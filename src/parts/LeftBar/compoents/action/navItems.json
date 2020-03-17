@@ -1,0 +1,34 @@
+{
+  "nav": [
+    {
+      "id": 0,
+      "title": "Inbox",
+      "icon": "House"
+    },
+    {
+      "id": 1,
+      "title": "Today",
+      "icon": "star"
+    },
+    {
+      "id": 2,
+      "title": "Upcoming",
+      "icon": "calendar"
+    },
+    {
+      "id": 3,
+      "title": "Important",
+      "icon": "hash"
+    },
+    {
+      "id": 4,
+      "title": "Meetings",
+      "icon": "users"
+    },
+    {
+      "id": 5,
+      "title": "Trash",
+      "icon": "trash"
+    }
+  ]
+}
